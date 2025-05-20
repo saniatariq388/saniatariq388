@@ -1,10 +1,10 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hi%2C+I'm+Saniya+Tariq;Full-Stack+Web+Developer;Next.js+%7C+TypeScript+%7C+Sanity+CMS+%7C+Stripe;Let's+build+something+awesome+!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hi%2C+I'm+Sania+Tariq;Junior Full-Stack+Web+Developer;Next.js+%7C+TypeScript+%7C+Sanity+CMS+%7C+Stripe;Let's+build+something+awesome+!" />
 </p>
 
-## 👋 Hi there, I'm Sania Tariq, Junior Frontend Developer
+## 👋 Hi there, I'm Sania Tariq
 
 - 👀 I’m interested in **web development**, **open-source contributions**, and **creative UI/UX design**  
 - 🌱 I’m currently learning **Next.js 15**, **TypeScript**, and integrating **AI tools in web apps**  
