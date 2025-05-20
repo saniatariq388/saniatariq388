@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Next.js 15**, **TypeScript**, and integrating **AI tools in web apps**  
 - 💞️ I’m looking to collaborate on **full-stack JavaScript/TypeScript projects** and **innovative hackathons**  
 - 📫 Reach me at:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/saniatariq388)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)]:https://www.linkedin.com/in/saniatariq388  
   **Email**: saniatariq388@gmail.com  
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love turning rough ideas into polished, deployed products using modern frameworks!
